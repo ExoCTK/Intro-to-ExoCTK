@@ -28,10 +28,12 @@ ExoCTK Data
 -----------
 ExoCTK relies on a large collection of data. Some tools may be run entirely
 without this data, but light curve fitting, observation planning, and our model
-grid interfaces require this data. The full data package is 12GB, and can be
-downloaded from MAST (FINDME / maybe.) If this is too large to fit on your
+grid interfaces require this data. The full data package is 12GB, and will be
+available from MAST, but we could not arrange this in advance of the workshop. 
+If this is too large to fit on your
 machine, we have a stripped down set of data that can get you through this
-workshop, available here (FINDME / dropbox?) 
+workshop, available on dropbox <link>.
+
 
 After downloading the data in some form, you will have a directory structure
 with ``exoctk_data`` at the top level, and subdirectories that correspond to
