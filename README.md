@@ -34,6 +34,7 @@ If this is too large to fit on your
 machine, we have a stripped down set of data that can get you through this
 workshop, available on dropbox <link>.
 
+
 After downloading the data in some form, you will have a directory structure
 with ``exoctk_data`` at the top level, and subdirectories that correspond to
 module specific data, like ``groups_integrations``, ``fortney``, ``generic``,
